@@ -1,0 +1,10 @@
+F:\project_SCADA\VS\СognitiveFunctionTrain\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\project_SCADA\VS\СognitiveFunctionTrain\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\project_SCADA\VS\СognitiveFunctionTrain\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\project_SCADA\VS\СognitiveFunctionTrain\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+F:\project_SCADA\VS\СognitiveFunctionTrain\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\project_SCADA\VS\СognitiveFunctionTrain\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\project_SCADA\VS\СognitiveFunctionTrain\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\project_SCADA\VS\СognitiveFunctionTrain\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+F:\project_SCADA\VS\СognitiveFunctionTrain\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\project_SCADA\VS\СognitiveFunctionTrain\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
